@@ -9,7 +9,7 @@ This is a simple project to get Hello World into a Git Repository.
 
 # Installing
 
-A step by step series of examples that tell you how to get a development env running
+A step by step series of examples that tell you how to get a development environment running
 
 Say what the step will be
 
